@@ -4,7 +4,7 @@ This project focuses on the detection of fraudulent activities within financial 
 
 ## Dataset
 
-The dataset used for this project can be found on Kaggle. You can access it via the following link: Metaverse Financial Transactions Dataset
+The dataset used for this project can be found on Kaggle. You can access it via the following link: Metaverse Financial Transactions Dataset(https://www.kaggle.com/datasets/faizaniftikharjanjua/metaverse-financial-transactions-dataset)
 
 ## Tech stack
 
