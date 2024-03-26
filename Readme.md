@@ -30,3 +30,7 @@ Accuracy : 93.13931297709924 %
 ![image](https://github.com/MSS-PRIYANKA/Metaverse-Fraud-Detection-Using-Graph-Neural-Networks/assets/95180619/b16fb4e9-b264-4de2-98d6-5343d22044ad)
 ![image](https://github.com/MSS-PRIYANKA/Metaverse-Fraud-Detection-Using-Graph-Neural-Networks/assets/95180619/31fde8e1-1154-4e51-8c0c-960245a71a77)
 ![image](https://github.com/MSS-PRIYANKA/Metaverse-Fraud-Detection-Using-Graph-Neural-Networks/assets/95180619/ae149e73-e253-4b9f-bd21-a5e81a84d856)
+
+## Current Work
+
+I am currently integrating a Streamlit user interface (UI) to facilitate user input for the system and display the resulting outcomes.
